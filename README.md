@@ -78,7 +78,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-For any questions or support, please contact [Chathura Sudaraka](https://github.com/ChathuraSudaraka).
+For any questions or support, please contact [Chathura Sudaraka](https://github.com/ChathuraSudaraka) or [Ravidu Madushanka](https://github.com/RaviduMadushanka).
 
 ---
 

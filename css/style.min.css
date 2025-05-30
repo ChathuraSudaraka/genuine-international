@@ -103,16 +103,16 @@ font-family: 'Lato', sans-serif;
 font-family: 'Raleway', sans-serif;
 */
 
-@import url("bootstrap.min.css");
-@import url("all.min.css");
-@import url("themify-icons.css");
-@import url("owl.carousel.css");
-@import url("bootstrap-select.min.css");
-@import url("magnific-popup.css");
-@import url("scrollbar.css");
-@import url("animate.css");
-@import url("lightgallery.min.css");
-@import url("switcher.css");
+@import url("../plugins/bootstrap/css/bootstrap.min.css");
+@import url("../plugins/fontawesome/css/all.min.css");
+@import url("../plugins/themify/themify-icons.css");
+@import url("../plugins/owl-carousel/owl.carousel.css");
+@import url("../plugins/bootstrap-select/bootstrap-select.min.css");
+@import url("../plugins/magnific-popup/magnific-popup.css");
+@import url("../plugins/scroll/scrollbar.css");
+@import url("../plugins/animate/animate.css");
+@import url("../plugins/lightgallery/css/lightgallery.min.css");
+@import url("../plugins/switcher/css/switcher.css");
 
 /*--------------------------------------------------------------
 1. GENERAL 
@@ -2093,7 +2093,7 @@ input[type=radio]:checked + label:before {
 .loading-pic {
     width: 70px;
     height: 70px;
-    background: url(inc/images/loading.GIF) center no-repeat;
+    background: url(../index.html) center no-repeat;
     position: fixed;
     left: 50%;
     top: 50%;
@@ -3675,7 +3675,7 @@ blockquote:before {
 
 .banner-inner-row.provider-banner-off {
     height: 150px;
-    background-image: url("file:///C|/Users/admin/Documents/inc/images/pattern/pattern1.jpg") !important;
+    background-image: url("../../../file/C_/Users/admin/Documents/inc/images/pattern/pattern1.jpg") !important;
     background-repeat: repeat;
     background-size: auto;
 }
